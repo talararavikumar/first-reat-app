@@ -9,7 +9,7 @@ export default function App() {
   return (
     <div>
       <Person />
-      <Address name="ravi" />
+      <Address name="ravi kumar" />
       <Increment />
     </div>
   );
