@@ -1,1 +1,2 @@
 test command
+merge check
